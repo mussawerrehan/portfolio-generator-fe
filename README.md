@@ -1,1 +1,1 @@
-# portfolio-generator-fe
+# Portfolio Generator Frontend Angular ThreeJS Application.
